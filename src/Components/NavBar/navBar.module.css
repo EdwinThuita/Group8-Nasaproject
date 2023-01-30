@@ -1,0 +1,31 @@
+.navBar {
+  width: 100vw;
+  height: 7vh;
+  background-color: rgba(0, 0, 0, 1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: teal;
+}
+
+.link {
+  margin-right: 20px;
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+.linkActive {
+  margin-right: 20px;
+  text-decoration: underline;
+  color: whitesmoke;
+  color: gold;
+}
+
+.h1 {
+  padding: 0px;
+  margin: 0px;
+}
+
+.user {
+  color: gold;
+}
